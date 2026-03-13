@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <defs>
+    <linearGradient id="bg-7135" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2C3E50"/>
+      <stop offset="100%" stop-color="#B5CDAF"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#bg-7135)"/>
+  <path d="M0,400 L120.0,180.0 L240.0,280.0 L400.0,120.0 L520.0,220.00000000000003 L640.0,140.0 L800,240.0 L800,400 Z" fill="#B5CDAF" opacity="0.3"/>
+  <path d="M0,320.0 Q200.0,260.0 400.0,320.0 T800,300.0 L800,400 L0,400 Z" fill="#B5CDAF" opacity="0.2"/>
+  <polygon points="379,305 365.35,396 392.65,396" fill="#B5CDAF" opacity="0.15"/><polygon points="612,275 593.7,397 630.3,397" fill="#B5CDAF" opacity="0.15"/><polygon points="670,237 651.55,360 688.45,360" fill="#B5CDAF" opacity="0.15"/><polygon points="749,274 732.2,386 765.8,386" fill="#B5CDAF" opacity="0.15"/><polygon points="593,309 583.1,375 602.9,375" fill="#B5CDAF" opacity="0.15"/>
+  <text x="400.0" y="152.0" text-anchor="middle" font-size="60.0" fill="white" opacity="0.9">🏔️</text>
+  <text x="400.0" y="224.00000000000003" text-anchor="middle" font-family="Georgia, serif" font-size="32.0" font-weight="600" fill="white" opacity="0.95">Whistler</text>
+  <text x="400.0" y="268.0" text-anchor="middle" font-family="sans-serif" font-size="20.0" fill="white" opacity="0.7">Village & Mountains</text>
+</svg>

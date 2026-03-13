@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <defs>
+    <linearGradient id="bg-8971" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7A9E7E"/>
+      <stop offset="100%" stop-color="#2C3E50"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#bg-8971)"/>
+  <path d="M0,400 L120.0,180.0 L240.0,280.0 L400.0,120.0 L520.0,220.00000000000003 L640.0,140.0 L800,240.0 L800,400 Z" fill="#2C3E50" opacity="0.3"/>
+  <path d="M0,320.0 Q200.0,260.0 400.0,320.0 T800,300.0 L800,400 L0,400 Z" fill="#2C3E50" opacity="0.2"/>
+  <polygon points="169,274 155.35,365 182.65,365" fill="#2C3E50" opacity="0.15"/><polygon points="400,228 379.9,362 420.1,362" fill="#2C3E50" opacity="0.15"/><polygon points="259,273 243.85,374 274.15,374" fill="#2C3E50" opacity="0.15"/><polygon points="575,276 559.7,378 590.3,378" fill="#2C3E50" opacity="0.15"/><polygon points="438,305 428.7,367 447.3,367" fill="#2C3E50" opacity="0.15"/>
+  <text x="400.0" y="152.0" text-anchor="middle" font-size="60.0" fill="white" opacity="0.9">🌿</text>
+  <text x="400.0" y="224.00000000000003" text-anchor="middle" font-family="Georgia, serif" font-size="32.0" font-weight="600" fill="white" opacity="0.95">Rainforest</text>
+  <text x="400.0" y="268.0" text-anchor="middle" font-family="sans-serif" font-size="20.0" fill="white" opacity="0.7">Trail</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <defs>
+    <linearGradient id="bg-6368" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5B8FA8"/>
+      <stop offset="100%" stop-color="#D4C5A9"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#bg-6368)"/>
+  <path d="M0,400 L120.0,180.0 L240.0,280.0 L400.0,120.0 L520.0,220.00000000000003 L640.0,140.0 L800,240.0 L800,400 Z" fill="#D4C5A9" opacity="0.3"/>
+  <path d="M0,320.0 Q200.0,260.0 400.0,320.0 T800,300.0 L800,400 L0,400 Z" fill="#D4C5A9" opacity="0.2"/>
+  <polygon points="709,288 694.75,383 723.25,383" fill="#D4C5A9" opacity="0.15"/><polygon points="62,240 43.7,362 80.3,362" fill="#D4C5A9" opacity="0.15"/><polygon points="454,230 433.15,369 474.85,369" fill="#D4C5A9" opacity="0.15"/><polygon points="294,271 280.05,364 307.95,364" fill="#D4C5A9" opacity="0.15"/><polygon points="264,235 243.9,369 284.1,369" fill="#D4C5A9" opacity="0.15"/>
+  <text x="400.0" y="152.0" text-anchor="middle" font-size="60.0" fill="white" opacity="0.9">🌅</text>
+  <text x="400.0" y="224.00000000000003" text-anchor="middle" font-family="Georgia, serif" font-size="32.0" font-weight="600" fill="white" opacity="0.95">Pender Harbour</text>
+  <text x="400.0" y="268.0" text-anchor="middle" font-family="sans-serif" font-size="20.0" fill="white" opacity="0.7">Sunshine Coast</text>
+</svg>
